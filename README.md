@@ -1,5 +1,5 @@
 # Diabetes-_Prediction-_Project-_using-_Python
-<h1>Diabetes Prediction Project using Python and Google Colab Notebook</h1>
+<h3>Diabetes Prediction Project using Python and Google Colab Notebook</h3>
 
 <h3>Objective</h3>
 
